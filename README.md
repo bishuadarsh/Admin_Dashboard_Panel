@@ -27,8 +27,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-<h2> Dashboard Outlook </h2>
+## Dashboard Outlook
 ![screenshot](img/Screenshot%202020-07-05%20at%209.21.51%20AM.png)
 
-
-
+#### 1
+![screenshot](img/Screenshot%202020-07-05%20at%209.22.24%20AM.png)
